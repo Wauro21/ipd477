@@ -726,11 +726,11 @@
         },
         "traitlets": {
             "hashes": [
-                "sha256:10b6ed1c9cedee83e795db70a8b9c2db157bb3778ec4587a349ecb7ef3b1033b",
-                "sha256:1410755385d778aed847d68deb99b3ba30fbbf489e17a1e8cbb753060d5cce73"
+                "sha256:61832ea7b7f910f5745e27e9bb269a181fd15af76027d99560299209d5b17c94",
+                "sha256:bd0fca5c890a09bf66b33cce67ca14156b080429bc39c7ef26b075a4bd4f9fc3"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==5.6.0"
+            "version": "==5.7.0"
         },
         "wcwidth": {
             "hashes": [
